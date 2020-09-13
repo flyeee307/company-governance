@@ -184,6 +184,9 @@ ul, ol {
 .ir_cont.tc ol {
     margin-left: -20px;
 }
+.ir_cont.tc .duty ol {
+    margin-left: -10px;
+}
 .ir_cont.tc ul {
     list-style: none;
 }
