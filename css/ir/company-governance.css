@@ -236,11 +236,11 @@ ul, ol {
 }
 .com-governance {
     /*margin: -10px 0 10px 50px;*/
-    margin-bottom: 90px;
+    padding-bottom: 90px;
 }
 @media screen and (max-width: 1200px) {
     .com-governance {
-        margin-bottom: 30px;
+        padding-bottom: 30px;
     }
 }
 .operation_table {
@@ -497,13 +497,14 @@ td {
 .psText {
     width: 49%;
     position: absolute;
-    bottom: 0;
+    bottom: 90px;
     left: 0;
 }
 @media (max-width: 1200px) {
     .psText {
         width: 70vw;
         position: relative; 
+        bottom: 0;
     }
 }
 @media (max-width: 576px) {
@@ -692,7 +693,7 @@ td {
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
-    margin-bottom: 90px;
+    padding-bottom: 90px;
 }
 @media (max-width: 1200px) {
     .point-group {
@@ -809,19 +810,13 @@ td {
 }
 .point-group_m {
     display: none;
-    margin-bottom: 45px;
+    padding-bottom: 45px;
 }
 @media (max-width: 1200px) {
     .point-group_m {
         display: block;
     }
 }
-
-
-
-
-
-
 
 
 /*form > select {
@@ -842,9 +837,8 @@ td {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin-bottom: 90px;
+    padding-bottom: 90px;
 }
-
 .item {
     width: 45%;
     height: 80px;
