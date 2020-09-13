@@ -1,0 +1,105 @@
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.financebg {
+    background: url(../../img/ir/page_kv.png) center bottom;
+}
+
+form {
+    width: 100%;
+    margin: 20px auto;
+    display: inline-block;
+}
+
+form>span {
+    font-size: 1.5rem;
+    color: #A8522C;
+    line-height: 2rem;
+    font-weight: bold;
+}
+
+form>.quar {
+    display: none;
+}
+
+form>select[data-chose='a2020']~.a2020,
+form>select[data-chose='a2019']~.a2019,
+form>select[data-chose='a2018']~.a2018,
+form>select[data-chose='a2017']~.a2017,
+form>select[data-chose='a2016']~.a2016 {
+    display: block;
+    margin-top: 1.6rem;
+}
+
+form>select {
+    appearance: none;
+    outline: none;
+    border: none;
+    width: 140px;
+    height: 36px;
+    background: url(../../img/ir/arrow.svg) no-repeat 115px center #ECECEC;
+    border-radius: 5px;
+    padding-left: 10px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+form>p {
+    font-size: 0.8rem;
+    color: #616161;
+    padding-left: 1em;
+}
+
+.report {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.item {
+    width: 45%;
+    height: 80px;
+    border-top: solid 1px #CCCCCC;
+    position: relative;
+}
+
+.item a {
+    display: block;
+    width: 45%;
+    height: 80px;
+    line-height: 80px;
+}
+
+.item a span {
+    font-size: 1rem;
+    color: #414141;
+    margin-left: 4rem;
+}
+
+.item a img {
+    position: absolute;
+    top: 50%;
+    left: 2%;
+    transform: translate(0, -50%);
+}
+
+@media screen and (max-width: 1200px) and (min-width: 1px) {
+    .report {
+        flex-wrap: column;
+        justify-content: center;
+    }
+
+    .item {
+        width: 100%;
+    }
+
+    .item a {
+        width: 100%;
+    }
+
+}
+
+.ir_kvBlock .ir_kv h1 {
+    font-weight: 400;
+}

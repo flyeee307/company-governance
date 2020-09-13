@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="335" height="1249" viewBox="0 0 335 1249">
+  <g id="公司組織圖_mobile" transform="translate(-20 -326)">
+    <g id="Group_773" data-name="Group 773" transform="translate(44)">
+      <g id="Group_772" data-name="Group 772" transform="translate(-558.948 4017.5) rotate(-90)">
+        <line id="Line_50" data-name="Line 50" x1="92" transform="translate(3145 646.448)" fill="none" stroke="#dddfde" stroke-width="2"/>
+        <line id="Line_51" data-name="Line 51" y2="21" transform="translate(3237 646.448)" fill="none" stroke="#dddfde" stroke-width="2"/>
+        <line id="Line_52" data-name="Line 52" y2="21" transform="translate(3145 646.448)" fill="none" stroke="#dddfde" stroke-width="2"/>
+        <line id="Line_49" data-name="Line 49" y2="95" transform="translate(3191 572.448)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      </g>
+      <line id="Line_197" data-name="Line 197" y1="343" transform="translate(12.5 483.5)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_198" data-name="Line 198" x2="39" transform="translate(12.5 483.5)" fill="none" stroke="#dddfde" stroke-width="2"/>
+    </g>
+    <line id="Line_16" data-name="Line 16" y2="344.889" transform="translate(96.294 369.216)" fill="none" stroke="#eedcd4" stroke-width="2"/>
+    <rect id="Rectangle_30" data-name="Rectangle 30" width="153" height="52" rx="20" transform="translate(20 326)" fill="#d6361e"/>
+    <rect id="Rectangle_31" data-name="Rectangle 31" width="153" height="53" rx="20" transform="translate(20 413)" fill="#d5371a"/>
+    <rect id="Rectangle_32" data-name="Rectangle 32" width="153" height="52" rx="20" transform="translate(20 501)" fill="#d7351e"/>
+    <rect id="Rectangle_33" data-name="Rectangle 33" width="153" height="52" rx="20" transform="translate(20 588)" fill="#d7351e"/>
+    <rect id="Rectangle_34" data-name="Rectangle 34" width="153" height="52" rx="20" transform="translate(20 675)" fill="#d6361e"/>
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="147" height="28" rx="14" transform="translate(207 355)" fill="#f0ae36" opacity="0.2"/>
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="147" height="28" rx="14" transform="translate(207 402)" fill="#f0ae36" opacity="0.2"/>
+    <rect id="Rectangle_37" data-name="Rectangle 37" width="147" height="28" rx="14" transform="translate(207 448)" fill="#f0ae36" opacity="0.2"/>
+    <rect id="Rectangle_38" data-name="Rectangle 38" width="147" height="28" rx="14" transform="translate(207 495)" fill="#f0ae36" opacity="0.2"/>
+    <rect id="Rectangle_39" data-name="Rectangle 39" width="147" height="28" rx="14" transform="translate(208 625)" fill="#f0ae36" opacity="0.2"/>
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="147" height="28" rx="14" transform="translate(208 667)" fill="#f0ae36" opacity="0.2"/>
+    <line id="Line_17" data-name="Line 17" x2="17.868" transform="translate(173.632 438.923)" fill="none" stroke="#eedcd4" stroke-width="2"/>
+    <line id="Line_23" data-name="Line 23" x2="94.994" transform="translate(96.506 660.141)" fill="none" stroke="#eedcd4" stroke-width="2"/>
+    <line id="Line_18" data-name="Line 18" y2="141.188" transform="translate(191.035 369.5)" fill="none" stroke="#eedcd4" stroke-width="2"/>
+    <line id="Line_24" data-name="Line 24" y2="40.411" transform="translate(191.878 639.239)" fill="none" stroke="#eedcd4" stroke-width="2"/>
+    <line id="Line_19" data-name="Line 19" x2="16.414" transform="translate(191.086 509.688)" fill="none" stroke="#eedcd4" stroke-width="2"/>
+    <line id="Line_20" data-name="Line 20" x2="16.414" transform="translate(191.086 463.006)" fill="none" stroke="#eedcd4" stroke-width="2"/>
+    <line id="Line_26" data-name="Line 26" x2="16.965" transform="translate(191.035 679.65)" fill="none" stroke="#eedcd4" stroke-width="2"/>
+    <line id="Line_21" data-name="Line 21" x2="16.414" transform="translate(191.086 416.021)" fill="none" stroke="#eedcd4" stroke-width="2"/>
+    <line id="Line_25" data-name="Line 25" x2="16.965" transform="translate(191.035 639.239)" fill="none" stroke="#eedcd4" stroke-width="2"/>
+    <line id="Line_22" data-name="Line 22" x2="16.414" transform="translate(191.086 369.339)" fill="none" stroke="#eedcd4" stroke-width="2"/>
+    <text id="股東會" transform="translate(97 358)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-24" y="0">股東會</tspan></text>
+    <text id="審計委員會" transform="translate(255 376)" fill="#d7351e" font-size="14" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-35" y="0">審計委員會</tspan></text>
+    <text id="薪資報酬委員會" transform="translate(267 421)" fill="#d7351e" font-size="14" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-49" y="0">薪資報酬委員會</tspan></text>
+    <text id="企業永續發展委員會" transform="translate(279 467)" fill="#d7351e" font-size="14" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-63" y="0">企業永續發展委員會</tspan></text>
+    <text id="風險管理執行委員會" transform="translate(279 514)" fill="#d7351e" font-size="14" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-63" y="0">風險管理執行委員會</tspan></text>
+    <text id="資訊安全管理委員會" transform="translate(281 644)" fill="#d7351e" font-size="14" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-63" y="0">資訊安全管理委員會</tspan></text>
+    <text id="勞工安全衛生管理室" transform="translate(281 687)" fill="#d7351e" font-size="14" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-63" y="0">勞工安全衛生管理室</tspan></text>
+    <text id="董事會_董事長_副董事長" data-name="董事會
+
+董事長  副董事長" transform="translate(96 436)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-24" y="0">董事會</tspan><tspan x="0" y="10"></tspan><tspan x="-59.584" y="20" xml:space="preserve">董事長  副董事長</tspan></text>
+    <text id="企業團總執行長" transform="translate(97 531)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-56" y="0">企業團總執行長</tspan></text>
+    <text id="總管理處_總經理" data-name="總管理處  總經理" transform="translate(96 619)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-59.584" y="0" xml:space="preserve">總管理處  總經理</tspan></text>
+    <text id="總管理處_副總經理" data-name="總管理處  副總經理" transform="translate(96 707)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-67.584" y="0" xml:space="preserve">總管理處  副總經理</tspan></text>
+    <rect id="Rectangle_41" data-name="Rectangle 41" width="186" height="33" rx="16.5" transform="translate(153 854)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-2" data-name="Rectangle 41" width="186" height="32" rx="16" transform="translate(153 809)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-3" data-name="Rectangle 41" width="186" height="32" rx="16" transform="translate(153 764)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-4" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 1542.747)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-5" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 1497.592)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-6" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 1452.438)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-7" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 1404.944)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-8" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 1359.01)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-9" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 1313.076)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-10" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 1267.142)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-11" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 1221.208)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-12" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 1175.274)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-13" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 1129.34)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-14" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 1083.406)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-15" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 1037.472)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-16" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 991.538)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-17" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 945.604)" fill="#2b540e" opacity="0.5"/>
+    <rect id="Rectangle_41-18" data-name="Rectangle 41" width="186.266" height="32.253" rx="16.127" transform="translate(152.25 899.67)" fill="#2b540e" opacity="0.5"/>
+    <g id="Group_771" data-name="Group 771" transform="translate(152.306 916.25) rotate(90)">
+      <line id="Line_27" data-name="Line 27" x1="765.145" transform="translate(-189.75 56.306)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_33" data-name="Line 33" x1="183.969" transform="translate(45.992 22.522)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_38" data-name="Line 38" x1="185.283" transform="translate(277.04 22.522)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_43" data-name="Line 43" x1="136.005" transform="translate(509.692 22.522)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_28" data-name="Line 28" y1="56.306" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_31" data-name="Line 31" y1="56.306" transform="translate(138.364)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_34" data-name="Line 34" y1="22.522" transform="translate(45.992 0)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_36" data-name="Line 36" y1="22.522" transform="translate(91.984 0)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_37" data-name="Line 37" y1="22.522" transform="translate(184.485 0)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_40" data-name="Line 40" y1="22.522" transform="translate(417.068 0)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_45" data-name="Line 45" y1="22.522" transform="translate(553.713 0)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_44" data-name="Line 44" y1="22.522" transform="translate(509.31 0)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_35" data-name="Line 35" y1="22.522" transform="translate(230.606 0)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_41" data-name="Line 41" y1="22.522" transform="translate(276.727 0)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_42" data-name="Line 42" y1="22.522" transform="translate(322.849 0)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_39" data-name="Line 39" y1="22.522" transform="translate(463.189 0)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_47" data-name="Line 47" y1="22.522" transform="translate(645.698 0)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_46" data-name="Line 46" y1="22.522" transform="translate(599.705 0)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_32" data-name="Line 32" y1="56.306" transform="translate(368.97)" fill="none" stroke="#dddfde" stroke-width="2"/>
+      <line id="Line_29" data-name="Line 29" y1="33.783" transform="translate(575.395 22.522)" fill="none" stroke="#dddfde" stroke-width="2"/>
+    </g>
+    <text id="和平分公司和平廠" transform="translate(245 1058)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-64" y="0">和平分公司和平廠</tspan></text>
+    <text id="蘇澳廠" transform="translate(245 1104)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-24" y="0">蘇澳廠</tspan></text>
+    <text id="花蓮廠" transform="translate(245 1152)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-24" y="0">花蓮廠</tspan></text>
+    <text id="營建部" transform="translate(245 1196)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-24" y="0">營建部</tspan></text>
+    <text id="財務部" transform="translate(245 1242)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-24" y="0">財務部</tspan></text>
+    <text id="物料部" transform="translate(245 1288)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-24" y="0">物料部</tspan></text>
+    <text id="總務部" transform="translate(245 1336)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-24" y="0">總務部</tspan></text>
+    <text id="人力資源部" transform="translate(245 1382)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-40" y="0">人力資源部</tspan></text>
+    <text id="業務部" transform="translate(245 1427)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-24" y="0">業務部</tspan></text>
+    <text id="法務室" transform="translate(245 921)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-24" y="0">法務室</tspan></text>
+    <text id="工務部" transform="translate(245 967)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-24" y="0">工務部</tspan></text>
+    <text id="研究室" transform="translate(245 1012)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-24" y="0">研究室</tspan></text>
+    <text id="企業團" transform="translate(245 787)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-24" y="0">企業團</tspan></text>
+    <text id="董事會秘書室" transform="translate(245 831)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-48" y="0">董事會秘書室</tspan></text>
+    <text id="稽核室" transform="translate(245 876)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-24" y="0">稽核室</tspan></text>
+    <text id="台北水泥製造廠" transform="translate(245 1476)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-56" y="0">台北水泥製造廠</tspan></text>
+    <text id="台中水泥製造廠" transform="translate(245 1520)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-56" y="0">台中水泥製造廠</tspan></text>
+    <text id="高雄水泥製造廠" transform="translate(245 1564)" fill="#fff" font-size="16" font-family="NotoSansCJKtc-Regular, Noto Sans CJK TC"><tspan x="-56" y="0">高雄水泥製造廠</tspan></text>
+  </g>
+</svg>
