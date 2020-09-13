@@ -248,8 +248,7 @@ ul, ol {
     overflow-x: auto;
     overflow-y: hidden;
     text-align: center;
-    /*border-radius: 20px;
-    overflow: hidden;*/
+    border-radius: 20px;
 }
 @media (max-width: 1200px) {
     .operation_table {
@@ -345,12 +344,15 @@ td {
     list-style: initial;
 }
 .com-governance .operation_table_m thead th {
-    border-radius: 20px 20px 0 0;
+    border-radius: 10px 10px 0 0;
     font-size: 1.25rem;
     color: inherit;
     background-color: #F8EAD4;
     text-align: left;
     padding: 15px 15px;
+}
+.com-governance .operation_table_m table {
+    border-radius: 10px;
 }
 .com-governance .operation_table_m table td {
     font-size: 1.125rem;
@@ -545,7 +547,7 @@ td {
     background-color: #616161;
 }
 .com-governance.infoSafe .operation_table_m table tr:last-child td {
-    border-radius: 0 0 20px 20px;
+    border-radius: 0 0 10px 10px;
 }
 @media (max-width: 576px) {
     .com-governance.infoSafe .operation_table_m table td {
@@ -570,7 +572,7 @@ td {
     /*height: 280px;*/
     padding: 10px 0;
     background-color: rgba(253,239,214,1);
-    border-radius: 5px;
+    border-radius: 10px;
     margin-bottom: 30px;
 }
 @media (max-width: 414px) {
